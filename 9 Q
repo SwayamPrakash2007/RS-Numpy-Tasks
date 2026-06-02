@@ -1,0 +1,24 @@
+dtype:-
+
+dtype means data type of an array. Basically it tells us what type of data is stored in the array.
+
+For Example:
+import numpy as np
+a = np.array([1, 2, 3])
+print(a.dtype)
+
+Output:int64
+
+astype():-
+astype() is used to convert the data type of an array.
+
+For Example:
+import numpy as np
+
+a = np.array([1, 2, 3])
+b = a.astype(float)
+print(b)
+print(b.dtype)
+
+Output:[1. 2. 3.]
+float64
