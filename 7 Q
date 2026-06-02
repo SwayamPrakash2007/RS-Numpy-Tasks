@@ -1,0 +1,7 @@
+A Python list is a built-in data structure which is used to store multiple values. It can contain different types of data such as 
+integers, strings, and floats in the same list.Lists are flexible and easy to use where as a NumPy array is provided by the NumPy 
+library and is mainly used for numerical calculations. It usually stores elements of the same data type and performs
+mathematical operations much faster than Python lists.
+
+Python lists use more memory and often require loops to perform calculations. In contrast, NumPy arrays use less memory and support direct element-wise operations, making them more
+efficient for scientific and mathematical work.
