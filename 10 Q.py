@@ -20,3 +20,6 @@ print("Datatype:", a.dtype)
 b = a.astype(float)
 
 print("Changed Datatype:", b.dtype)
+
+#Print ndim
+print(a.ndim)
